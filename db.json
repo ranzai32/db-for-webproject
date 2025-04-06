@@ -49,6 +49,231 @@
           "name": "smartphones",
           "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-1.jpg"
         }
+      },
+      {
+        "id": 4,
+        "title": "Apple iPhone 16 Pro",
+        "price": 912.5,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-1.jpg"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Apple iPhone 16 Plus",
+        "price": 941.15,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Apple iPhone 16e",
+        "price": 599.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-3.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-4.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-1.jpg"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Apple iPhone 16 Pro",
+        "price": 912.5,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-1.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Apple iPhone 16 Plus",
+        "price": 941.15,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 11,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 12,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 13,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 14,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 15,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
+      },
+      {
+        "id": 16,
+        "title": "Apple iPhone 16 Pro Max",
+        "price": 1099.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-3.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-pro-max-1.jpg"
+        }
       }
     ]
   }
