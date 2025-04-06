@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 8",
+        "price": 140,
+        "description": "An apple mobile which is nothing like apple",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-new-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-3.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-5.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-4.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-new-1.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "price": 245,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-4.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Apple iPhone 16e",
+        "price": 599.99,
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with custom-built OLED chip",
+        "images": [
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-1.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-2.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-3.jpg",
+          "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-4.jpg"
+        ],
+        "category": {
+          "id": 1,
+          "name": "smartphones",
+          "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16e-1.jpg"
+        }
+      }
+    ]
+  }
